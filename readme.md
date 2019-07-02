@@ -2,9 +2,7 @@
 
 This project scrapes the comments off of a Youtube video and analyzes the data for:
 1. comment sentiment (positive, negative, neutral, and compound scores from 0 to 1), 
-	which are then organized by day. This was intended to test the hypothesis that early comments 
-	would be from loyal subscribers and thus would have a higher sentiment. Overall, the earlier 
-	comments had slightly higher compound scores, but only marginally.
+	which are then organized by day.
 2. most frequent words and their wordcounts (videos with more positive sentiment likely have more	
 	positive words in their comments).
 3. frequency of comments by month
